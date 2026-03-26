@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kamiladavranova39@email.com**
 
-- About Me **Hello! I'm a beginner programmer. I'm currently learning Python. I don't have any projects yet, but I want to create them in the future and become a good programmer. I'm ready to learn and improve every day. I enjoy music, dancing, games, and spending time with friends. I'm interested in programming and new experiences.**
+- About Me **Hello! I'm a beginner developer. I'm currently learning Python. I don't have any projects yet, but I want to create them in the future and become a good developer. I'm ready to learn and improve every day. I enjoy music, dancing, games, and spending time with friends. I'm interested in programming and new experiences.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
